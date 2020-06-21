@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ir-convolver/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-ir-convolver/static/js/main.dda405df.chunk.js",
+    "main.js.map": "/react-ir-convolver/static/js/main.dda405df.chunk.js.map",
+    "runtime-main.js": "/react-ir-convolver/static/js/runtime-main.ad458972.js",
+    "runtime-main.js.map": "/react-ir-convolver/static/js/runtime-main.ad458972.js.map",
+    "static/js/2.7ccf5c2f.chunk.js": "/react-ir-convolver/static/js/2.7ccf5c2f.chunk.js",
+    "static/js/2.7ccf5c2f.chunk.js.map": "/react-ir-convolver/static/js/2.7ccf5c2f.chunk.js.map",
+    "index.html": "/react-ir-convolver/index.html",
+    "precache-manifest.4bf218cf39270dd5c1bcf4ffeba98e23.js": "/react-ir-convolver/precache-manifest.4bf218cf39270dd5c1bcf4ffeba98e23.js",
+    "service-worker.js": "/react-ir-convolver/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-ir-convolver/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7ccf5c2f.chunk.js.LICENSE.txt": "/react-ir-convolver/static/js/2.7ccf5c2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad458972.js",
+    "static/js/2.7ccf5c2f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.dda405df.chunk.js"
+  ]
+}
