@@ -65,7 +65,7 @@ const WaveVisualizer = ({audioContext, mediaElement, uri, type}: Props) => {
 
   return (
       <div>
-        <input type="file" onChange={onFileChange}></input>
+        {type !== 'CONVOLVED' && <input type="file" onChange={onFileChange}></input>}
         <OverViewContainer ref={overViewContainer}/>
         <audio controls ref={mediaElement}>
           <source src={uri} type="audio/wav"/>
